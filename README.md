@@ -17,4 +17,4 @@ La app ayuda a explorar datos de autos, como el kilometraje y el precio, a trav�
 
 ## Cómo usarla
 
-1. Enlace a la apliacción: 
+1. Enlace a la apliacción: https://sprint-7-proyecto-venta-coches.onrender.com
